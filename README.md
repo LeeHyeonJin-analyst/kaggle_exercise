@@ -1,1 +1,1 @@
-# kaggle_self
+# kaggle_exercise
